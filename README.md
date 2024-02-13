@@ -29,3 +29,4 @@ python3 NodeXmlExporter.py opc.tcp://localhost:16664 --namespace 2 export-ns2.xm
 # Export with username/password
 python NodeXmlExporter.py opc.tcp://localhost:16664 --namespace 2 -u myusername -p somestrongpassword export-ns2.xml
 ```
+hey henrik
